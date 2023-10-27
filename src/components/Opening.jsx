@@ -15,7 +15,7 @@ const Opening = () => {
     return (
         <div className={`opening-animation ${isVisible ? 'animate-fade-out' : ''}`}>
             {isVisible && (
-                <img src={Atharv} alt="Opening Image" className="" />
+                <img src={Atharv} alt="Opening" className="w-full h-full object-cover" />
             )}      </div>
     );
 }
