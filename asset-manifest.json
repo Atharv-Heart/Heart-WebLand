@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Heart-WebLand.git/static/css/main.da25727b.css",
-    "main.js": "/Heart-WebLand.git/static/js/main.28563712.js",
-    "static/js/787.f81fc17e.chunk.js": "/Heart-WebLand.git/static/js/787.f81fc17e.chunk.js",
-    "static/media/Opening.png": "/Heart-WebLand.git/static/media/Opening.0f6343f79713c909b77b.png",
-    "static/media/Vishnu Murti broken.jpeg": "/Heart-WebLand.git/static/media/Vishnu Murti broken.b4b57603b45d27ebefc8.jpeg",
-    "static/media/Gopuram broken.jpeg": "/Heart-WebLand.git/static/media/Gopuram broken.99bf69267c5762358e97.jpeg",
-    "static/media/Vishnu MR.png": "/Heart-WebLand.git/static/media/Vishnu MR.7d7910eec3bac262df95.png",
-    "static/media/Gopuram MR.png": "/Heart-WebLand.git/static/media/Gopuram MR.84a648e37d2b33dbee4c.png",
-    "static/media/Chariot MR.png": "/Heart-WebLand.git/static/media/Chariot MR.d28fe33cfd6e29f04dbb.png",
-    "static/media/Stone Chariot broken.jpeg": "/Heart-WebLand.git/static/media/Stone Chariot broken.6b822200230ed7b41958.jpeg",
-    "static/media/AtharvIntro.png": "/Heart-WebLand.git/static/media/AtharvIntro.159fcb0d15499aaefa78.png",
-    "index.html": "/Heart-WebLand.git/index.html",
-    "main.da25727b.css.map": "/Heart-WebLand.git/static/css/main.da25727b.css.map",
-    "main.28563712.js.map": "/Heart-WebLand.git/static/js/main.28563712.js.map",
-    "787.f81fc17e.chunk.js.map": "/Heart-WebLand.git/static/js/787.f81fc17e.chunk.js.map"
+    "main.css": "/Heart-WebLand/static/css/main.da25727b.css",
+    "main.js": "/Heart-WebLand/static/js/main.e2bf082e.js",
+    "static/js/787.f81fc17e.chunk.js": "/Heart-WebLand/static/js/787.f81fc17e.chunk.js",
+    "static/media/Opening.png": "/Heart-WebLand/static/media/Opening.0f6343f79713c909b77b.png",
+    "static/media/Vishnu Murti broken.jpeg": "/Heart-WebLand/static/media/Vishnu Murti broken.b4b57603b45d27ebefc8.jpeg",
+    "static/media/Gopuram broken.jpeg": "/Heart-WebLand/static/media/Gopuram broken.99bf69267c5762358e97.jpeg",
+    "static/media/Vishnu MR.png": "/Heart-WebLand/static/media/Vishnu MR.7d7910eec3bac262df95.png",
+    "static/media/Gopuram MR.png": "/Heart-WebLand/static/media/Gopuram MR.84a648e37d2b33dbee4c.png",
+    "static/media/Chariot MR.png": "/Heart-WebLand/static/media/Chariot MR.d28fe33cfd6e29f04dbb.png",
+    "static/media/Stone Chariot broken.jpeg": "/Heart-WebLand/static/media/Stone Chariot broken.6b822200230ed7b41958.jpeg",
+    "static/media/AtharvIntro.png": "/Heart-WebLand/static/media/AtharvIntro.159fcb0d15499aaefa78.png",
+    "index.html": "/Heart-WebLand/index.html",
+    "main.da25727b.css.map": "/Heart-WebLand/static/css/main.da25727b.css.map",
+    "main.e2bf082e.js.map": "/Heart-WebLand/static/js/main.e2bf082e.js.map",
+    "787.f81fc17e.chunk.js.map": "/Heart-WebLand/static/js/787.f81fc17e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da25727b.css",
-    "static/js/main.28563712.js"
+    "static/js/main.e2bf082e.js"
   ]
 }
